@@ -1,0 +1,25 @@
+Selamat datang di Rumah Sakit
+
+Dr Sahizidan(Penyakit dalam) memeriksa Zaki
+Dr Wildan(Anak) memeriksa Reza
+Umur tidak valid 
+
+- Data Pasien -
+Nama : Zaki
+No. RM : RM001
+Umur : 35 tahun
+Total Tagihan : Rp150000
+-------------------------------
+Nama : Reza
+No. RM : RM002
+Umur : 20 tahun
+Total Tagihan : Rp120000
+-------------------------------
+- Data Dokter -
+Nama : Sahizidan
+Spesialisasi : Penyakit dalam
+-------------------------------
+Nama : Wildan
+Spesialisasi : Anak
+-------------------------------
+Total pemeriksaan yang dilakukan: 2
